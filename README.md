@@ -14,11 +14,10 @@ This repository contains a simple and elegant Todo List web app built using Tail
 
 ## Live Demo
 
-You can check out the live demo of the Todo List web app [here](https://abdellatif-laghjaj.github.io/todo-list/)).
+You can check out the live demo of the Todo List web app [here](https://github.com/Shivamkus/TODO_LIST)).
 
-## Screenshots
 
-![image](https://github.com/abdellatif-laghjaj/todo-list/assets/79521157/2bc510e2-5f2f-456b-acc2-31b8c8232d93)
+
 
 
 ## Technologies Used
@@ -35,5 +34,5 @@ To run the Todo List web app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdellatif-laghjaj/todo-list.git
+git clone https://github.com/Shivamkus/TODO_LIST
 ```
