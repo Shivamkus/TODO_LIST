@@ -14,7 +14,7 @@ This repository contains a simple and elegant Todo List web app built using Tail
 
 ## Live Demo
 
-You can check out the live demo of the Todo List web app [here](https://github.com/Shivamkus/TODO_LIST)).
+You can check out the live demo of the Todo List web app [here](https://todolist830.netlify.app/)).
 
 
 
